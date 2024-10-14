@@ -1,0 +1,25 @@
+2024/10/14-22:16:15.862 3db4 Reusing MANIFEST C:\Users\rizqs\OneDrive\Desktop\WaBotTes\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/14-22:16:15.866 3db4 Recovering log #4856
+2024/10/14-22:16:15.980 3db4 Reusing old log C:\Users\rizqs\OneDrive\Desktop\WaBotTes\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/004856.log 
+2024/10/14-22:16:16.797 2d84 Compacting 1@2 + 3@3 files
+2024/10/14-22:16:16.929 2d84 Generated table #4868@2: 56038 keys, 2252468 bytes
+2024/10/14-22:16:17.029 2d84 Generated table #4869@2: 46110 keys, 2221598 bytes
+2024/10/14-22:16:17.062 2d84 Generated table #4870@2: 7752 keys, 2166457 bytes
+2024/10/14-22:16:17.066 2d84 Generated table #4871@2: 9 keys, 6663 bytes
+2024/10/14-22:16:17.066 2d84 Compacted 1@2 + 3@3 files => 6647186 bytes
+2024/10/14-22:16:17.067 2d84 compacted to: files[ 0 0 54 21 0 0 0 ]
+2024/10/14-22:16:17.068 2d84 Delete type=2 #4851
+2024/10/14-22:16:17.068 2d84 Delete type=2 #4852
+2024/10/14-22:16:17.068 2d84 Delete type=2 #4853
+2024/10/14-22:16:17.068 2d84 Delete type=2 #4858
+2024/10/14-22:16:17.381 2bb8 Level-0 table #4873: started
+2024/10/14-22:16:17.395 2bb8 Level-0 table #4873: 340768 bytes OK
+2024/10/14-22:16:17.397 2bb8 Delete type=0 #4856
+2024/10/14-22:16:17.398 2bb8 Manual compaction at level-0 from ' r\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' s\x01\x00\x00\x00' @ 0 : 0; will stop at ' r\x01\x00\x00\x05' @ 9490659 : 1
+2024/10/14-22:16:17.398 2bb8 Compacting 1@0 + 0@1 files
+2024/10/14-22:16:17.421 2bb8 Generated table #4874@0: 6618 keys, 64562 bytes
+2024/10/14-22:16:17.432 2bb8 Generated table #4875@0: 4819 keys, 133498 bytes
+2024/10/14-22:16:17.433 2bb8 Compacted 1@0 + 0@1 files => 198060 bytes
+2024/10/14-22:16:17.434 2bb8 compacted to: files[ 0 2 54 21 0 0 0 ]
+2024/10/14-22:16:17.434 2bb8 Delete type=2 #4873
+2024/10/14-22:16:17.435 2bb8 Manual compaction at level-0 from ' r\x01\x00\x00\x05' @ 9490659 : 1 .. ' s\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
