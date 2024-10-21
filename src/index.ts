@@ -41,9 +41,9 @@ const sendMessage = async (number: string, message: string) => {
 
 // Kirim pesan saat bot siap
 client.on('ready', () => {
-  const numbers = ['6285855237611', '6285234494610'];
+  const numbers = ['6281259323018'];
   numbers.forEach(number => {
-    sendMessage(number, '');
+    sendMessage(number, 'divy love syiap');
   });
 });
 
